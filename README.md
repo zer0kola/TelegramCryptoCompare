@@ -1,6 +1,8 @@
 # TelegramCryptoCompare
 A. cryptocompare.com에서 제공하는 http request api를 이용해 매분마다 비트코인의 가격을 요청
+
 B. 텔레그램 챗봇으로 메세지 전송
+
 C. 텔레그램 챗봇에서 명령을 받음
 
 Part A. 비트코인의 가격은 Bitfinex에서 USD로 표시 (upbit에서 KRW도 가능)
