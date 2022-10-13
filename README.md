@@ -7,7 +7,7 @@ Part A. 비트코인의 가격은 Bitfinex에서 USD로 표시 (upbit에서 KRW�
 https://upbit.com/service_center/open_api_guide
 http://docs.python-requests.org/en/master/user/quickstart
 
-매 분마다 리퀘스트를 보내기 위해 AP스케쥴러, crontab, threading timer 사용
+매 분마다 리퀘스트를 보내기 위해 AP스케쥴러, crontab, threading timer 사용\n
 모인 정보들은 .csv 파일로 저장
 
 Part B. 텔레그램 챗봇을 이용해 메세지를 보냄 매 분마다 가격 등락 알림을 보내는 챗봇을 만들기
